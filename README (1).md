@@ -170,13 +170,7 @@ Built with:
 
 ---
 
-## 🔗 Quick Download
-
-📥 [Click here to download this project as ZIP](https://github.com/<your-username>/Object_Detection_Yolo/archive/refs/heads/main.zip)
-
----
-
 ### 👨‍💻 Author
-**Your Name**  
-💼 GitHub: [@your-username](https://github.com/your-username)  
-📧 Email: your.email@example.com
+**Asiya Akhtar**  
+💼 GitHub: [@Asiya-Akhtar](https://github.com/Asiya-Akhtar)  
+📧 Email: asiyaakhtar17@gmail.com
