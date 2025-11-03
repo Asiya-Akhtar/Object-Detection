@@ -1,4 +1,4 @@
-# 🧠 Object Detection with YOLOv8
+# Object Detection with YOLOv8
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
 [![Ultralytics YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-orange.svg)](https://github.com/ultralytics/ultralytics)
